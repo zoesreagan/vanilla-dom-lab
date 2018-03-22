@@ -8,11 +8,7 @@ You are not expected to remember these commands. This is an exercise to get you 
 
 ## Setup
 
-* `git pull upstream master`
-
-* Open up the `dom_example` folder in your `student_labs` directory for today.
-
-* Load the `index.html` file into the browser. You should see a kitten and a bungalow:
+Fork it, and clone it
 
 ![](https://i.imgur.com/XRNN2TE.png)
 
